@@ -1,7 +1,3 @@
-Here’s the README translated into native U.S. English:
-
----
-
 # 🎯 **SecretNumGame**
 
 Welcome to **SecretNumGame**! An interactive game where you try to guess a secret number between 1 and 10! 🎲  
@@ -49,11 +45,6 @@ The **SecretNumGame** follows a simple yet effective architecture, highlighting 
 4. 🏆 Keep trying until you **guess the number**.
 5. 🔄 **Click "New Game"** to restart.
 
-📸 **Gameplay Example:**  
-![How to Play](https://via.placeholder.com/800x400.png?text=How+to+Play)
-
----
-
 ## 📂 **Installation**
 
 1. **Clone the repository:**
@@ -81,11 +72,6 @@ The **SecretNumGame** follows a simple yet effective architecture, highlighting 
 - 🎲 **Random Generation**: Each round starts with a new secret number.
 - 🔄 **Dynamic Reset**: All variables and interface elements are reset for a new game.
 - 📋 **Lists**: Arrays are used to prevent repeated numbers.
-
-📸 **Code Structure Example:**  
-![Documentation](https://via.placeholder.com/800x300.png?text=Code+Structure)
-
----
 
 ## 🤝 **Contributing**
 
@@ -116,14 +102,9 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ## 🎉 **Have fun playing SecretNumGame and challenge your friends!**  
 
-📸 **Gameplay Example:**  
-![Gameplay](https://via.placeholder.com/800x400.png?text=Gameplay)
-
 ---
 
 ### How to Customize:
 1. Replace the placeholder links with real images from your project.
 2. Add screenshots or GIFs to demonstrate the gameplay.
 3. Use a custom logo or banner image at the top of the README.
-
-With emojis and visuals, this README is now more engaging and professional! 😊
