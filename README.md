@@ -19,9 +19,6 @@ The **SecretNumGame** follows a simple yet effective architecture, highlighting 
 - 🎲 **Random Number Generator**: Ensures a unique number for each round.
 - 🔃 **Game Reset**: Allows you to start a new round with a single click.
 
-📸 **Architecture Example:**  
-![Architecture](https://via.placeholder.com/800x400.png?text=Architecture)
-
 ---
 
 ## 💡 **Features**
@@ -31,9 +28,6 @@ The **SecretNumGame** follows a simple yet effective architecture, highlighting 
 - 📊 **Attempt Tracker**: See how many tries it took to guess correctly.
 - 🔄 **Quick Reset**: Restart the game with one click.
 - 🎤 **Text-to-Speech**: Hints are narrated using the **ResponsiveVoice.js** library.
-
-📸 **Features in Action:**  
-![Features](https://via.placeholder.com/800x300.png?text=Features)
 
 ---
 
@@ -96,7 +90,7 @@ Want to improve this project? Follow these steps to contribute:
 
 ## ✅ **License**
 
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+This project is licensed under the **MIT License**.
 
 ---
 
