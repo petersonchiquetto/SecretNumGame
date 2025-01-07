@@ -84,9 +84,6 @@ Want to improve this project? Follow these steps to contribute:
    ```
    git push origin my-new-feature
    ```
-5. 📝 **Open a Pull Request.**
-
----
 
 ## ✅ **License**
 
